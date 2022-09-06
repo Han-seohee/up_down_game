@@ -162,7 +162,7 @@ input::placeholder {
 .bar {
     width: 22%;
     max-width: 105px;
-    height: 250px;
+    height: 550px;
     background-color: #deb887;
     position: absolute;
     bottom: 20px;
@@ -176,7 +176,7 @@ input::placeholder {
     content: "";
     position: absolute;
     width: 20%;
-    height: 250px;
+    height: 550px;
     bottom: 0px;
     background-color: #a86002;
     right: 0;
