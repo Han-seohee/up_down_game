@@ -1,13 +1,3 @@
-// 랜덤번호 지정
-// 유저가 번호를 입력한다. 그리고 go라는 버튼을 누른다.
-// 만약 유저가 랜덤번호를 맞추면 맞췃습니다!라고 해준다.
-// 랜덤번호 > 유저번호 : down
-// 랜덤번호< 유저번호 : up
-// reset버튼 누르면 게임이 리셋됨
-// 5번으 기회를 다 쓰면 게임 끝 ( 더이상 추측 불가, 버튼 disable)
-// 유저가 1~100 범위 밖의 숫자 입력하면 알려준다. 기회 깎지 않음
-// 유저가 이미 입력한 숫자를 또 입력하면 알려준다. 기회 깎지 않음
-
 let computerNum = 0;
 let playBtn = document.getElementById("play_btn");
 let userInput = document.getElementById("user_input");
