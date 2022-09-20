@@ -72,7 +72,7 @@ function reset() {
     pickRandomNum();
     result.textContent = "못맞추면 메로나🤪";
     result.style.color = "black";
-    resultImg.src="images/giphy.gif";
+    resultImg.src="images/main.gif";
 
     correct.style.display = "none";
     gameOver = false;
